@@ -1,4 +1,4 @@
-# Day #05 – Digital Piano 🎹
+ Digital Piano 🎹
 
 ## Project Overview
 A small **Digital Piano** built using **HTML, CSS, and JavaScript** that plays musical notes when the user clicks on piano keys or presses mapped keyboard keys.
